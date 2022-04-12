@@ -1,3 +1,6 @@
-# collaborat_example
+# collaborate_example
 Showing how to use github to collaborate
-Hello, world
+
+
+
+# Hello, world
