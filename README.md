@@ -1,5 +1,5 @@
 # collaborate_example
-Showing how to use github to collaborate
+Revealing the secrets to use github to create discord and frustration--OH  NO!
 
 
 
